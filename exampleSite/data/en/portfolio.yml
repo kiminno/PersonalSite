@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Some Projects I've Built
   filter_List:
   - filter_Type: web
     filter_Title: Web Development
