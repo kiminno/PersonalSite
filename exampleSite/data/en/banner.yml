@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_Image: images/slider/hero-area.jpg
   icon: ''
-  title: Hello, I'm Nancy Ngo. I develop software.
+  title: Hello, I'm Nancy Ngo.
   content: I study computer science at the University of Waterloo. In my spare time,
     I attend hackathons to build projects, meet new people, and expand my skillset.
     I am currently seeking software developer positions for Spring 2020.
