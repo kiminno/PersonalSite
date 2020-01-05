@@ -1,0 +1,24 @@
+---
+feature:
+  enable: false
+  image: images/about/about-business-man.jpg
+  title: We’re A Digital Design Agency.
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
+    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  feature_Item:
+  - icon: ti-world
+    title: SEO Optimized
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-panel
+    title: Easy Customization
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-stats-up
+    title: SEO Optimized
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-announcement
+    title: Easy Customization
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe

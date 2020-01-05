@@ -1,0 +1,70 @@
+---
+portfolio:
+  enable: true
+  title: Some Projects I've Built
+  filter_List:
+  - filter_Type: web
+    filter_Title: Web Development
+  - filter_Type: game
+    filter_Title: Game Development
+  - filter_Type: mobile
+    filter_Title: Mobile Apps
+  portfolio_Item:
+  - types:
+    - design
+    image: images/portfolio/portfolio-1.jpg
+    URL: 
+    title: Tag Design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - development
+    image: images/portfolio/portfolio-2.jpg
+    URL: 
+    title: Sound system
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - design
+    - development
+    image: images/portfolio/portfolio-3.jpg
+    URL: 
+    title: Clock Product
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - photography
+    - development
+    image: images/portfolio/portfolio-4.jpg
+    URL: 
+    title: Bottol Label
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - design
+    image: images/portfolio/portfolio-5.jpg
+    URL: 
+    title: Shopping Bag
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - photography
+    image: images/portfolio/portfolio-6.jpg
+    URL: 
+    title: Tag Design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - development
+    image: images/portfolio/portfolio-7.jpg
+    URL: 
+    title: Business Card
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - design
+    - development
+    image: images/portfolio/portfolio-8.jpg
+    URL: 
+    title: Stationary Design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
+    - design
+    - photography
+    image: images/portfolio/portfolio-2.jpg
+    URL: 
+    title: Tag Design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

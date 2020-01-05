@@ -28,13 +28,17 @@ URL = "blog"
 name = "Blog"
 weight = 6
 [[menu.main]]
-URL = "portfolio"
+URL = "projects"
 name = "Projects"
 weight = 4
 [[menu.main]]
-URL = "about"
+URL = "testimonial"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "experience"
+name = "Experience"
+weight = 4
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

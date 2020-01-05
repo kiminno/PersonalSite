@@ -1,0 +1,29 @@
+---
+service:
+  enable: false
+  title: Our Services
+  service_Item:
+  - icon: ti-world
+    title: WordPress Theme
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-layout
+    title: Responsive Design
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-blackboard
+    title: Media &amp; Advertisement
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-palette
+    title: Graphic Design
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-package
+    title: Apps Development
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-pulse
+    title: Networking
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
