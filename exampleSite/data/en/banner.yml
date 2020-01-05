@@ -1,11 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_Image : "images/slider/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_Image: images/slider/hero-area.jpg
+  icon: ''
+  title: Hello, I'm Nancy Ngo. I develop software.
+  content: I study computer science at the University of Waterloo. In my spare time,
+    I attend hackathons to build projects, meet new people, and expand my skillset.
+    I am currently seeking software developer positions for Spring 2020.
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Find Out More
+    link: "#about"
