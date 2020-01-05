@@ -4,9 +4,9 @@ banner:
   bg_Image: images/slider/hero-area.jpg
   icon: ''
   title: Hello, I'm Nancy Ngo.
-  content: I study computer science at the University of Waterloo. In my spare time,
-    I attend hackathons to build projects, meet new people, and expand my skillset.
-    I am currently seeking software developer positions for Spring 2020.
+  content: "I study computer science at the University of Waterloo. \nIn my spare
+    time, I attend hackathons to build projects, meet new people, and expand my skillset.
+    \nI am currently seeking software developer positions for Spring 2020."
   button:
     enable: true
     label: Find Out More
