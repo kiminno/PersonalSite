@@ -2,16 +2,12 @@
 about:
   enable: true
   title: About Me
-  about_Item:
-  - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+  bg_Image: images/backgrounds/bg-2.jpg
+  testimonial_Item:
+  - name: Nancy Ngo
+    image: images/team/client-1.jpg
+    date: Dec 26, 2018
+    content: I study computer science at the University of Waterloo. 
+      In my spare time, I attend hackathons to build projects, meet new people, and expand my skillset. 
+      I am currently seeking software developer positions for Spring 2020.
+ 

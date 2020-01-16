@@ -417,7 +417,7 @@ a:hover {
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #737f8a;
+  color: #57cbcc;
 }
 
 .navigation .navigation-menu li a:hover,
@@ -1542,7 +1542,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #ffffff;
   border: 1px solid transparent;
   display: block;
   height: 70px;

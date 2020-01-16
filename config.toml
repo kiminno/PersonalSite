@@ -9,35 +9,17 @@ summaryLength = "15"
 title = "Nancy Ngo"
 [Languages.en]
 contentDir = "content/english"
-home = "Home"
+home = "About"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 5
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
 URL = "projects"
 name = "Projects"
-weight = 4
-[[menu.main]]
-URL = "testimonial"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "experience"
-name = "Experience"
 weight = 4
 [params]
 author = "Themefisher"
@@ -69,22 +51,16 @@ URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
 [[params.social_Icon]]
-icon = "ti-facebook"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-youtube"
-link = "#"
+icon = "ti-email"
+link = "mailto: nnngo@uwaterloo.ca"
 [[params.social_Icon]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://linkedin.com/in/kiminno"
 [[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
+icon = "ti-github"
+link = "https://github.com/kiminno"
 [[params.social_Icon]]
-icon = "ti-pinterest"
-link = "#"
+icon = "ti-folder"
+link = "https://devpost.com/Kiminno"
+
