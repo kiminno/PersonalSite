@@ -35,14 +35,16 @@
 		<div class="row shuffle-wrapper">
 			{{"<!-- portfolio item -->" | safeHTML}}
 			{{ range .portfolio_Item }}
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .types }}{{if eq $index 0}} {{else}},{{end}}&quot;{{.}}&quot;{{ end }}]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image | relURL }}" alt="work-image">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
-							data-lightbox="image-1">
-							<i class="ti-search"></i>
+						<a class="search-icon" target="_blank" href="{{ .github_link | relURL }}">
+							<i class="ti-github"></i>
+						</a>
+						<a class="search-icon" target="_blank" href="{{ .project_link | relURL }}">
+							<i class="ti-folder"></i>
 						</a>
 						<h4 class="mt-3"><a href="{{ .URL | relURL }}">{{ .title }}</a></h4>
 						<p>{{ .content | markdownify }}</p>

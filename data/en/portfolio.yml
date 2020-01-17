@@ -3,68 +3,39 @@ portfolio:
   enable: true
   title: My Projects
   filter_List:
-  - filter_Type: web
-    filter_Title: Web Development
+  - filter_Type: mobile
+    filter_Title: Mobile Applications
   - filter_Type: game
     filter_Title: Game Development
-  - filter_Type: mobile
-    filter_Title: Mobile Apps
+  - filter_Type: web
+    filter_Title: Web Development
   portfolio_Item:
   - types:
-    - design
-    image: images/portfolio/portfolio-1.jpg
-    URL: 
-    title: Tag Design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - mobile
+    image: images/portfolio/smaps.jpg
+    project_link: https://devpost.com/software/smaps
+    github_link: https://github.com/kiminno/SMapS
+    title: SMapS
+    content: Mobile app that connects people without internet to desired destinations.
   - types:
-    - development
-    image: images/portfolio/portfolio-2.jpg
-    URL: 
-    title: Sound system
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - game
+    image: images/portfolio/labyrinth.jpg
+    project_link: https://devpost.com/software/labyrinth-du62vg
+    github_link: https://github.com/htn-waves/labyrinth 
+    title: Labyrinth
+    content: 2-D mobile RPG game where one navigates through darkness to escape the unknown.
   - types:
-    - design
-    - development
-    image: images/portfolio/portfolio-3.jpg
-    URL: 
-    title: Clock Product
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - web
+    image: images/portfolio/uwcourseplanner.png
+    project_link: https://uwmincy.github.io/uwcourseplanner
+    github_link: https://github.com/uwmincy/uwcourseplanner
+    title: UW Course Planner
+    content: Web application to visually plan courses and optimize class scheduling.
   - types:
-    - photography
-    - development
-    image: images/portfolio/portfolio-4.jpg
-    URL: 
-    title: Bottol Label
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - design
-    image: images/portfolio/portfolio-5.jpg
-    URL: 
-    title: Shopping Bag
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - photography
-    image: images/portfolio/portfolio-6.jpg
-    URL: 
-    title: Tag Design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - development
-    image: images/portfolio/portfolio-7.jpg
-    URL: 
-    title: Business Card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - design
-    - development
-    image: images/portfolio/portfolio-8.jpg
-    URL: 
-    title: Stationary Design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - design
-    - photography
-    image: images/portfolio/portfolio-2.jpg
-    URL: 
-    title: Tag Design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - mobile
+    image: images/portfolio/presponder.jpg
+    project_link: https://devpost.com/software/presponder
+    github_link: https://github.com/ArtificalInventors/pResponder
+    title: pResponder
+    content: FitBit integrated mobile application that detects and alerts of physical abnormalities.
+
